@@ -24,7 +24,7 @@
 
 ## 下载与使用
 
-从 [Releases](https://github.com/StanT-cyber/ktr-toggle-manager/releases/latest) 下载最新版 `Ktr启停管理工具.exe`，无需安装 Python。
+从 [Releases](https://github.com/StanT-cyber/ktr-toggle-manager/releases/latest) 下载最新版 `KtrToggleManager-v0.3.0.exe`，无需安装 Python。程序启动后的产品名仍为“Ktr启停管理工具”。
 
 1. 关闭 Spoon 中正在编辑的目标 KTR，或确保 Spoon 不会同时保存它。
 2. 双击运行工具，点击“打开 KTR”；也可以把 KTR 文件拖到 EXE 图标上。
